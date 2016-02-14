@@ -1,5 +1,3 @@
-A typical composer.json file looks like this:
-
 {
     "name": "fulligniter/fulligniter",
     "type": "framework",
